@@ -12,26 +12,5 @@
 - **This is some bold text**
 - *This is italicized*
 
-- [Star Wars](https://www.starwars.com/)
-
-
-- Here is some code I found on [Geeks for Geeks](https://www.geeksforgeeks.org/linked-list-set-1-introduction/)
-
-```python
-Node class
-class Node:
-  
-    # Function to initialize the node object
-    def __init__(self, data):
-        self.data = data  # Assign data
-        self.next = None  # Initialize
-                          # next as null
-  
-# Linked List class
-class LinkedList:
-    
-    # Function to initialize the Linked
-    # List object
-    def __init__(self):
-        self.head = None
-```
+### Table of Contents
+- [Reading Class 1](markdown.md)
