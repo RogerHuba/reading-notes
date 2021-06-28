@@ -19,4 +19,4 @@
 
 
 #### Image on Page
-![SW Image](https://starwarsblog.starwars.com/wp-content/uploads/2020/12/knights-of-the-old-republic-key-art-TALL-4h9fr9b.jpg)
+![SW Image](knights-of-the-old-republic-key-art-TALL-4h9fr9b.jpeg)
